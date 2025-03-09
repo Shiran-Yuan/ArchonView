@@ -1,6 +1,6 @@
 # ArchonView
 
-This is the double-blind review branch of the ArchonView codebase, for the paper "Next-Scale Autoregressive Models are Zero-Shot Single-Image Object View Synthesizers." Checkpoints, training data, and evaluation data are hosted [here](https://huggingface.co/datasets/anon8567671/ArchonView) `https://huggingface.co/datasets/anon8567671/ArchonView`. 
+This is the double-blind review branch of the ArchonView codebase, for the paper "Next-Scale Autoregressive Models are Zero-Shot Single-Image Object View Synthesizers." Checkpoints, training data, and evaluation data are hosted at `https://huggingface.co/datasets/anon8567671/ArchonView`. 
 
 ## Reproduction
 
