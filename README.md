@@ -1,5 +1,13 @@
 # ArchonView
 
+_Faster, more accurate, and scalable generative NVS, without pretrained 2D generative models!_
+
+__Next-Scale Autoregressive Models are Zero-Shot Single-Image Object View Synthesizers__
+
+by Shiran Yuan and Hao Zhao
+
+[arXiv:2503.13588](https://arxiv.org/abs/2503.13588)
+
 ![AIR](https://github.com/user-attachments/assets/f9655065-f271-45a6-8e56-23c9c27f8763)
 
 This is the official codebase for ArchonView, as in the paper "Next-Scale Autoregressive Models are Zero-Shot Single-Image Object View Synthesizers." Checkpoints, training data, and evaluation data are hosted [here](https://huggingface.co/datasets/anon8567671/ArchonView/). 
